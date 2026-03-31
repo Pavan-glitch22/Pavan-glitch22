@@ -33,4 +33,6 @@
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-n-085b90267)
 ---
+## 📊 Github Stats
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavan-glitch22&show_icons=true&theme=tokyonight)
 ⚠️ All projects were conducted in isolated lab environments for educational purposes only.
