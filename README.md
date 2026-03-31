@@ -17,7 +17,7 @@
 | 🔍 OSINT & Reconnaissance (https://github.com/Pavan-glitch22/osint-recon-project.git) [| Passive recon on a public domain using whois, dig, nmap & HackerTarget |]
 | 🧪 Nessus Vulnerability Scan (https://github.com/Pavan-glitch22/VAPT-Metasploitable2-Nessus.git) [| Full vulnerability scan on Metasploitable 2 — 68 vulnerabilities discovered |]
 | 💥 VAPT on Metasploitable 2 | Full pentest including successful exploitation of Port 1524 bindshell for root access |
-| ⚙️ Network Scanning Automation | Automated port scanner using Nmap + Bash with live HTML report generation |
+| ⚙️ Network Scanning Automation (https://github.com/Pavan-glitch22/Automated_Networ-Port-Scanner_with_Web-Based_Reporting.git) [| Automated port scanner using Nmap + Bash with live HTML report generation |]
 
 ## 🧰 Tools & Technologies
 - Offensive Security: Kali Linux, Metasploit, Nmap, Nessus Essentials
