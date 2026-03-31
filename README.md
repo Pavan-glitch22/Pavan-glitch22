@@ -35,7 +35,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-n-085b90267)
 ---
 ## 📊 Github Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pavan-glitch22&show_icons=true&theme=tokyonight" />
+![GitHub Stats](https://stats.hackclub.dev/api/github?username=Pavan-glitch22)
 
 ## GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pavan-glitch22&theme=tokyonight)
