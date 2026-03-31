@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Pavan N👋
 
-<!--
-**Pavan-glitch22/Pavan-glitch22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Cybersecurity Student | CEH in Progress | Ethical Hacker in the Making
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🎓 Engineering student actively transitioning into Cybersecurity
+- 📚 Currently pursuing CEH certification at Win in Life Academy
+- 🛠️ Hands-on lab experience with Kali Linux, Nessus, Nmap & Metasploit
+- 🔭 Building real-world penetration testing projects in an isolated lab environment
+- 🌱 Continuously learning — Vulnerability Assessment, Network Security & Ethical Hacking
+- ⚡ I don't just study cybersecurity — I practice it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Projects
+| Project | Description |
+|---|---|
+| 🔍 OSINT & Reconnaissance | Passive recon on a public domain using whois, dig, nmap & HackerTarget |
+| 🧪 Nessus Vulnerability Scan | Full vulnerability scan on Metasploitable 2 — 68 vulnerabilities discovered |
+| 💥 VAPT on Metasploitable 2 | Full pentest including successful exploitation of Port 1524 bindshell for root access |
+| ⚙️ Network Scanning Automation | Automated port scanner using Nmap + Bash with live HTML report generation |
+
+## 🧰 Tools & Technologies
+- Offensive Security: Kali Linux, Metasploit, Nmap, Nessus Essentials
+- Networking: Cisco Packet Tracer, Wireshark, VirtualBox
+- Scripting: Bash
+- Recon: whois, dig, nslookup, traceroute, HackerTarget
+- OS: Kali Linux, Ubuntu, Windows
+
+## 📜 Certifications
+- ✅ Google Foundations of Cybersecurity — Coursera (Aug 2025)
+- ✅ Cisco Packet Tracer — Networking Fundamentals
+- 🔄 CEH (Certified Ethical Hacker) — In Progress
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-n-085b90267)
+---
+⚠️ All projects were conducted in isolated lab environments for educational purposes only.
